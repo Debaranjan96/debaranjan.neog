@@ -1,0 +1,31 @@
+.site-header{
+    background-color: aqua;
+    color:black;
+    height: 100vh;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.profile-pic{
+    border-radius: 200px;
+    height: 200px;
+    width: 200px;
+    align-self: center;
+    
+
+    
+}
+
+.site-header-content{
+    margin: 10px;
+
+}
+
+body{
+    margin: 0;
+
+}
